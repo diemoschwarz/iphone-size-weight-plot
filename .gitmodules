@@ -1,0 +1,3 @@
+[submodule "iphone-dimensions"]
+	path = iphone-dimensions
+	url = https://github.com/iPhoneSize/iphone-dimensions.git
